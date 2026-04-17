@@ -60,7 +60,7 @@ Built an AI-powered assistant that:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.py```
 
 
 ## 👤 Author
