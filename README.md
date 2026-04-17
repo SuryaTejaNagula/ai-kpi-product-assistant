@@ -61,3 +61,11 @@ Built an AI-powered assistant that:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## 👤 Author
+
+Surya Teja Nagula
+  
+- GitHub: https://github.com/SuryaTejaNagula 
+- LinkedIn: https://www.linkedin.com/in/suryatejanagula/
